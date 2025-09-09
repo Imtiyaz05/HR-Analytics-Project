@@ -15,4 +15,20 @@ The objective of this project is to analyze HR data and create an interactive Po
 5. **Job Role vs Work-Life Balance**  
 6. **Attrition Rate vs Years Since Last Promotion**
 
+7. ## ✅ Key Outcomes
+- Identified high attrition trends in specific departments  
+- Found correlation between **low income levels** and **higher attrition**  
+- Provided insights into **promotion cycle vs employee retention**  
+- Helped HR understand **work-life balance differences across roles**
+
+- ## 🚀 Future Improvements
+- Predictive analytics on attrition risk using ML models  
+- Adding employee satisfaction surveys data  
+- Automating report refresh with Power BI service
+
+- ## 👤 Author
+**Imtiyaz**  
+- 📧 [imtiyazpasha0206@gmail.com]  
+- 🔗 [https://www.linkedin.com/in/imtiyaz-pasha/]  
+
    
