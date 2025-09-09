@@ -26,6 +26,12 @@ The objective of this project is to analyze HR data and create an interactive Po
 - Adding employee satisfaction surveys data  
 - Automating report refresh with Power BI service
 
+- ## 📂 Repository Contents
+- `dashboard/` → Power BI dashboard file (`.pbix`)  
+- `data/` → Sample dataset (anonymized, if original is confidential)  
+- `images/` → Dashboard screenshots  
+- `README.md` → Project details  
+
 - ## 👤 Author
 **Imtiyaz**  
 - 📧 [imtiyazpasha0206@gmail.com]  
