@@ -31,6 +31,7 @@ The objective of this project is to analyze HR data and create an interactive Po
 - ## 👤 Author
 **Imtiyaz**  
 - 📧 [imtiyazpasha0206@gmail.com]  
-- 🔗 [https://www.linkedin.com/in/imtiyaz-pasha/]  
+- 🔗 [https://www.linkedin.com/in/imtiyaz-pasha/]
+- link : [https://app.powerbi.com/view?r=eyJrIjoiOTdjMmMwZDEtNjI3OC00YzNiLWE0ZjktNTUyYTVhMGI5NGQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
    
